@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.9.6, pytest-8.4.2, pluggy-1.6.0
+rootdir: /private/tmp/claude-501/-Users-candyxie/8d312727-916f-4de7-af6a-0b6bbf5a0484/scratchpad/ai110-module1show-gameglitchinvestigator-starter
+plugins: anyio-4.12.1, asyncio-1.2.0
+asyncio: mode=strict, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collected 8 items
+
+tests/test_game_logic.py ........                                        [100%]
+
+============================== 8 passed in 0.01s ===============================
